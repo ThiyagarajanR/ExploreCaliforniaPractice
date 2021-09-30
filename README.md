@@ -1,0 +1,2 @@
+# ExploreCaliforniaPractice
+dotnet core practice
